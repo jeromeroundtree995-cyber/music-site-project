@@ -95,4 +95,28 @@ git commit -m "Fix accessibility issues from audit"
  
 10
 git push
- 
+ .container {
+2
+** display: flex;
+3
+flex-directi**: row;
+4
+}  
+.hero-title {
+2
+color: #8a2be2** font-family: Georgia, serif;
+3
+**
+4
+.custom-card {
+5
+border: 3px s**id #8a2be2;
+6
+border-radius: 12**;
+7
+} 
+gi**commit -m "Add Bootstrap CDN"
+2
+git**ommit -m "Convert layout to Boots**ap grid"
+3
+git commit -m "Refactor CSS and add custom styling"
