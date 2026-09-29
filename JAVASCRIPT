@@ -1,3 +1,8 @@
 index.html
 script.js
 README.md
+git commit -m "Complete array tasks"
+
+git commit -m "Add loops and conditionals"
+
+git commit -m "Finish Taste Tracker function and cleanup"
