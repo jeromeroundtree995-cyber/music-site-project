@@ -6,3 +6,4 @@ git commit -m "Complete array tasks"
 git commit -m "Add loops and conditionals"
 
 git commit -m "Finish Taste Tracker function and cleanup"
+git push origin main
