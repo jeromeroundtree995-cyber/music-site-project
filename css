@@ -1,1 +1,21 @@
-
+music-site-project/
+│
+├── index.html
+├── page2.html
+├── css/
+│   └── style.css
+└── images/
+body
+h1
+p
+header
+footer 
+class="card"
+class="highlight" 
+id="history"
+id="genres" 
+display: flex;
+gap: 20px; 
+git commit -m "Create stylesheet and link CSS"
+git commit -m "Add classes and IDs"
+git commit -m "Create Flexbox layout"
