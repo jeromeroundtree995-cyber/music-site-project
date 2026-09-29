@@ -7,3 +7,5 @@ git commit -m "Add loops and conditionals"
 
 git commit -m "Finish Taste Tracker function and cleanup"
 git push origin main
+<!-- Inside your HTML file -->
+<script src="script.js"></script>
