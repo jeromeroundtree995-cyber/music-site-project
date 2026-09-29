@@ -11,3 +11,4 @@ Pizza Music Basketball Movies Video Games Traveling Technology
 git add favorites.txt
 git commit -m "Remove three favorite items" 
 git push origin main
+favorites.txt
