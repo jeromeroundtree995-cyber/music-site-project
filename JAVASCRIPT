@@ -17,9 +17,6 @@ console.log(emojis); // ["🎧", "🎺"]
 function greet(name) {
   console.log("Hello " + name);
 }
-
-
-
 index.html
 script.js
 README.md
@@ -30,4 +27,7 @@ git commit -m "Add loops and conditionals"
 git commit -m "Finish Taste Tracker function and cleanup"
 git push origin main
 <!-- Inside your HTML file -->
-<script src="script.js"></script>
+<script src="script.js"></script>  
+git add .
+git commit -m "Complete Taste Tracker tasks"
+git push
