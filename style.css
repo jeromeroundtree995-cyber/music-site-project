@@ -24,3 +24,33 @@ git commit -m "Fix accessibility issues from audit"
 
 <!-- Your custom CSS -->
 ./css/style.css
+<div class="container"> 
+<div class="row">
+  <div class="col-md-6">
+    ...
+  </div>
+
+  <div class="col-md-6">
+    ...
+  </div>
+</div>  
+<a href="page2.html" class="btn btn-primary">
+  Learn More
+</a>  
+<section class="mt-4 p-3">  
+.hero-title {
+    color: darkblue;
+    font-family: Georgia, serif;
+}
+
+.custom-section {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+}  git commit -m "Add Bootstrap CDN to all pages"
+
+git commit -m "Convert layout to Bootstrap grid"
+
+git commit -m "Refactor CSS and add custom Bootstrap styling"   
+git add .
+git commit -m "Add Bootstrap styling and refactor custom CSS"
+git push origin main
