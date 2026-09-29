@@ -20,6 +20,10 @@ git commit -m "Create stylesheet and link CSS"
 git commit -m "Add classes and IDs"
 git commit -m "Create Flexbox layout"
 <!-- Header section --> 
-display: flex;
+display: flex; 
+git add .
+git commit -m "Final polish before deployment"
+git push
+
 gap: 20px;
 ``
