@@ -1,3 +1,25 @@
+git clone GITHUB_URL_HERE
+print("Hello World!")
+console.log("Hello World!");
+users = ["Bob", "Linda", "Gene", "Tina", "Louise"]
+let users = ["Bob", "Linda", "Gene", "Tina", "Louise"];
+let emojis = ["🎧", "🎤", "🎷"];
+console.log(emojis[0]); // 🎧
+console.log(emojis[2]); // 🎷
+emojis.push("🎹");
+console.log(emojis); // ["🎧", "🎤", "🎺", "🎹"]
+ emojis.push("🎹");
+console.log(emojis); // ["🎧", "🎤", "🎷", "🎹"]
+emojis.pop(); // Removes 🎹
+console.log(emojis); // ["🎧", "🎤", "🎺"]
+mojis.splice(1, 1); // Removes 🎤 by starting at index of 1 and removing 1 item
+console.log(emojis); // ["🎧", "🎺"]
+function greet(name) {
+  console.log("Hello " + name);
+}
+
+
+
 index.html
 script.js
 README.md
