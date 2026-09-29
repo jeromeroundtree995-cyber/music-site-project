@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  .flex-container {
+    flex-direction: column;
+  }
+}  
+git commit -m "Improve heading structure and alt text"
+git commit -m "Add responsive media query"
+git commit -m "Fix accessibility issues from audit"
