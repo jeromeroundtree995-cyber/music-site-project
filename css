@@ -19,13 +19,15 @@ gap: 20px;
 git commit -m "Create stylesheet and link CSS"
 git commit -m "Add classes and IDs"
 git commit -m "Create Flexbox layout"
-<!-- Header section --> 
+<!-- Header section -->  
 display: flex; 
 git add .
 git commit -m "Final polish before deployment"
-git push
-
+ 
 gap: 20px;
 ``
 <link rel="stylesheet" 
 <link href="BOOTSTRAP-CD/style.css
+git clone GITHUB_URL_HERE
+cd YOUR_REPO_NAME
+code .
