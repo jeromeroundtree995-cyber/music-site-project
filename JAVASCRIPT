@@ -31,3 +31,6 @@ git push origin main
 git add .
 git commit -m "Complete Taste Tracker tasks"
 git push
+git clone GITHUB_URL_HERE
+cd YOUR_REPO_NAME
+code .
