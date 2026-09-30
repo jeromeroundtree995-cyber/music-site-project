@@ -55,3 +55,26 @@ Music festival (+1)
 Quiet cabin (+2)
 You are Rock Music!
 You are energetic, adventurous, and love excitement.
+function displayResult() {
+    let score = 0;
+
+    const answers = document.querySelectorAll(".selected");
+
+    answers.forEach(answer => {
+        score += Number(answer.dataset.points);
+    });
+
+    const resultContainer = document.getElementById("result-container");
+
+    if (score <= 5) {
+        resultContainer.textContent =
+            "You are Rock Music! You are energetic and adventurous.";
+    } else {
+        resultContainer.textContent =
+            "You are Classical Music! You are thoughtful and creative.";
+    }
+}
+
+document
+    .getElementById("show-results")
+    .addEventListener("click", displayResult);
