@@ -25,7 +25,10 @@ git add .
 git commit -m "Final polish before deployment"
  
 gap: 20px;
-``
+``  
+git commit -m "Set up personality quiz structure"
+git commit -m "Add quiz questions and answer tracking"
+git commit -m "Add scoring system and result display"
 <link rel="stylesheet" 
 <link href="BOOTSTRAP-CD/style.css
 git clone GITHUB_URL_HERE
