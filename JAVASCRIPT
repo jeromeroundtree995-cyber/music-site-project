@@ -33,4 +33,23 @@ git commit -m "Complete Taste Tracker tasks"
 git push
 git clone GITHUB_URL_HERE
 cd YOUR_REPO_NAME
-code .
+code   
+What do you do on a Friday night?
+
+Go to a concert (+1)
+Stay home and relax (+2)
+
+Question 2: Which instrument do you like most?
+
+Electric guitar (+1)
+Piano (+2)
+
+Question 3: Pick a color.
+
+Red (+1)
+Blue (+2)
+
+Question 4: What's your ideal vacation?
+
+Music festival (+1)
+Quiet cabin (+2)
