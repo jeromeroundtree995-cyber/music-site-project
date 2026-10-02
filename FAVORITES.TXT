@@ -1,3 +1,10 @@
 git clone YOUR_REPO_URL
 cd your-repo-name
 code .
+git --version 
+  brew install git 
+ sudo apt update
+   sudo apt install git 
+git config --global user.name "JEROMEROUNDTREE995"
+git config --global user. Email JEROMEROUNDTREE995@GMAIL.COM 
+git clone
