@@ -8,3 +8,5 @@ git --version
 git config --global user.name "JEROMEROUNDTREE995"
 git config --global user. Email JEROMEROUNDTREE995@GMAIL.COM 
 git clone https://github.com/jeromeroundtree995-cyber/music-site-project.git
+git add .
+git commit -m "Added values to the .txt file"
