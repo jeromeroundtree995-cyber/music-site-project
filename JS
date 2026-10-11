@@ -29,3 +29,10 @@ console.log("End");
 Start
 End
 Timeout done
+https://dogapi.dog/api/facts 
+{
+  "facts": [
+    "Dogs can learn more than 1000 words."
+  ],
+  "success": true
+}
