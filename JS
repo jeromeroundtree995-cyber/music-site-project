@@ -50,3 +50,6 @@ async function getDogFact() {
 
 getDogFact()
 gifContainer.innerHTML += `<img src="${IMAGE_URL_GOES_HERE}" class="col-3 mb-3">`
+git add .
+git commit -m "Add Giphy fetch and render"
+git push
