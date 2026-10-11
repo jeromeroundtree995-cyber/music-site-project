@@ -19,3 +19,10 @@ code .
     "pressure": 1023,
     "humidity": 64
 https://giphy.com/gifs/screen-media-films-85-3ohc0S35QJM0VCYuK4
+console.log("Start");
+
+setTimeout(() => {
+  console.log("Timeout done");
+}, 1000);
+
+console.log("End");
